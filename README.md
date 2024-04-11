@@ -22,3 +22,5 @@ across various devices.
 **:-**  CSS
 
 **:-**  JavaScript
+
+![image](https://github.com/priyanshp28/weather_map/assets/96482342/b751cc1e-4985-4dba-b3b0-5ffb4527e922)
